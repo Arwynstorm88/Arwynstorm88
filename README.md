@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Arwynstorm88
-- 👀 I’m interested in learning coding to change my career path. Outside of that I am into gaming, reading, and my children
+- 👋 Hi, I’m Christopher Hoeppner
+- 👀 I’m an aspiring software engineer looking to change career from retial managment. 
 - 🌱 I’m currently pursuing my Bachelor of Science degree in Computer Science through SNHU
 - 💞️ I’m looking to collaborate on anything that will help me learn more. 
 - 📫 How to reach me? I will be adding more contact info soon
